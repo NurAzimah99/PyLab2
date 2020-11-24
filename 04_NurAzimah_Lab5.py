@@ -28,3 +28,5 @@ class ElectricCar(Vehicle):
 
 blueSG = ElectricCar('4', 5, 150)
 blueSG.drive()
+
+print("Hi")
